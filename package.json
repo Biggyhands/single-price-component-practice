@@ -1,0 +1,14 @@
+{
+  "name": "single-price-component",
+  "version": "1.0.0",
+  "description": "frontend mentor challenge",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
